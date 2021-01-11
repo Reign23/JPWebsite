@@ -1,0 +1,47 @@
+/*Website styles */
+
+*{
+  font-size:14px;
+}
+body {
+  background-color: WhiteSmoke;
+  color:  DarkSlateBlue;
+  font-family: 'Dancing Script', cursive;
+
+}
+
+h1 {
+  color:  red;
+  font-size:36px;
+}
+
+
+h2 {
+  color:  green;
+  font-size: 18px;
+}
+h3 {
+  font-size: 18px;
+}
+
+header {
+  color: rbg(44, 44, 44);
+/*  background-color: yellow; */
+}
+
+section p {
+  color: red;
+  font-size: 24pt;
+  /*background-color: grey; */
+}
+
+p {
+  color: black;
+  font-size: 24px;
+}
+
+footer {
+  color: black;
+  background-color: aqua;
+
+}
