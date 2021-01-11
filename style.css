@@ -1,27 +1,34 @@
 /*Website styles */
 
 *{
-  font-size:14px;
+  font-size:100%;
+  font-fammily: helvetica, arial
 }
 body {
   background-color: WhiteSmoke;
   color:  DarkSlateBlue;
-  font-family: 'Dancing Script', cursive;
+  /* font-family: 'Dancing Script', cursive; */
+  font-weight: bold;
 
 }
 
 h1 {
   color:  red;
   font-size:36px;
+  font-style: italic;
 }
 
 
 h2 {
   color:  green;
   font-size: 18px;
+  font-weight:100;
+  font-style: oblique;
+  text-align: right;
 }
 h3 {
   font-size: 18px;
+  font-style: normal;
 }
 
 header {
@@ -36,12 +43,30 @@ section p {
 }
 
 p {
-  color: black;
+  color: blue;
   font-size: 24px;
+  line-height: 2;
+  text-align: right;
 }
 
 footer {
   color: black;
   background-color: aqua;
+  text-decoration: underline;
+}
 
+a:link,
+a:focus,
+a:active {
+  text decoration: underline;
+  color: green;
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: blue;
 }
