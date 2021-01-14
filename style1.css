@@ -16,9 +16,7 @@ body {
   background-image: url(images/rainbow.jpg);
   background-repeat: no-repeat;
   background-size: 100%
-
 }
-
 h1 {
   color:  red;
   font-size:36px;
@@ -55,11 +53,11 @@ section p {
   padding: 30px;
   width: 80%;
   height: 80%
-
-a img (
+}
+a img {
   width: 50%;
   height: 30px;
-  )
+}
   .picture2 {
     width: 600px;
   }
@@ -118,4 +116,19 @@ a:visited {
 }
 .container {
 max-width: 1000px
+}
+.banner {
+  height: 350px;
+  background-image: url(images/pic of old canoe.jpg);
+  background-size: 50%;
+  background-position: center;
+  margin-bottom: 20px;
+}
+.caption {
+  color: black;
+  font-weight: bold;
+  margin-top: -200px;
+  position: relative;
+  color: black;
+  font-weight: bold;
 }
