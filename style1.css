@@ -119,8 +119,8 @@ max-width: 1000px
 }
 .banner {
   height: 350px;
-  background-image: url(images/pic of old canoe.jpg);
-  background-size: 50%;
+  background-image: url(images/canoe.jpg);
+  background-size: 100%;
   background-position: center;
   margin-bottom: 20px;
 }
