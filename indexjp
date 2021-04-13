@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title> Jordan's Principle </title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style1.css">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+</head>
+<div class="banner"</div>
+
+<body>
+<header>
+  <h1 class="title">The History of Jordan's Principle</h1>
+</header>
+  <p>  Jordan’s story
+Jordan River Anderson was a First Nations child
+from Norway Cree House Nation in Manitoba.
+Born in 1999 with complex medical needs that
+could not be treated on-reserve, he spent more
+than two years in a hospital in Winnipeg before
+doctors agreed that he could leave the hospital to
+be cared for in a family home. However, because
+of jurisdictional disputes within and between the
+federal and provincial governments over who
+would pay costs for in-home care, Jordan spent
+over two more years in hospital unnecessarily
+before he tragically died in 2005. He was 5 years
+old and had never spent a day in a family home.
+
+  </p>
+</div>
+  <section>
+      <p>
+        In response to this tragedy, Jordan's Principle
+  was created. It is a child first principle calling on
+  the government of first contact to ensure First
+  Nations children can access public services on
+  the same terms as other children. In December
+  2007, Motion-296 in support of Jordan’s
+  Principle passed unanimously in the House of
+  Commons.1 If the federal and provincial
+  governments followed Jordan’s Principle, there
+  would be no jurisdictional disputes, and First
+  Nations children would not get caught in the
+  middle of government red tape, like Jordan did
+      </p>
+  </section>
+<!--2 more images-->
+<img src= "images/Opitsaht.jpeg" alt="photo of Opitsaht" width="500" height="300" /></a>
+<img src= "images/home2.jpg" alt="photo of home2" width= "500" height="300" /></a><br>
+
+
+<nav>
+  <ul>
+    <li>
+<!--2 more hyperlinks-->
+      <a href="about.html">All about me</a></li>
+      <li>
+      <a href="https://travelcontinuum.com/the-curious-case-of-the-opitsaht-cows-of-vancouver-island/"> Opitsaht Cows </a> <br> Cows roam around our reserve here.. to learn more.. click here-->><a href="https://travelcontinuum.com/the-curious-case-of-the-opitsaht-cows-of-vancouver-island/"> Opitsaht Cows </a>
+    </li>
+    <a href="https://google.com/">Google </a>
+    </ul>
+</nav>
+
+<footer>
+  Website by A.Brown
+</footer>
+
+  </body>
+  </html>
