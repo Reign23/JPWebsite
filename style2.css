@@ -9,7 +9,8 @@
   box-sizing: content-box;
 }
 body {
-  color: blue;
+    <body style="background-color:powderblue;">
+      color: blue;
   /* font-family: 'Dancing Script', cursive; */
   /* font-weight: bold; */
   margin: 60px;
