@@ -1,25 +1,21 @@
 /*Website styles */
-
+<!DOCTYPE html>
+<html>
 *{
   font-size: 100%;
   font-family: helvetica, arial
-  border: 1px solid red;
-  margin: 0;
-  line-height: 1;
-  box-sizing: content-box;
+
 }
 body {
-    <body style="background-color:powderblue;">
-      color: blue;
-  /* font-family: 'Dancing Script', cursive; */
-  /* font-weight: bold; */
+  font-family: 'Dancing Script', cursive; */
+  font-weight: bold; */
   margin: 60px;
-  background-image: url(images/pattern.jpg);
+  background-image: url(images/Ahousahtland.jpg);
+  background-position: left top;
   background-repeat: no-repeat;
-  background-size: 200%
-}
-h1 {
-  color:  red;
+  background-attachment: fixed; /* Background image will not move when scrolling */
+  background-size: 1920px 1080px;
+  <head>color:  red;
   font-size:36px;
   font-style: italic;
   text-align: center
@@ -117,10 +113,11 @@ max-width: 1000px
 }
 .banner {
   height: 350px;
-  background-image: url(images/JPLogo.jpg);
-  background color: #000000;
+  background-image: url(images/JPLogo2.jpg);
   background-size: 70%;
-  background-position: center;
+  background attachment: fixed;
+  background-position: left;
+  background-repeat: no-repeat;
   margin-bottom: 50px;
 }
 .caption {
@@ -130,7 +127,4 @@ max-width: 1000px
   position: relative;
   color: black;
   font-weight: bold;
-}
-.favorite {
-  background color: white;
 }
