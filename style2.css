@@ -16,7 +16,7 @@ body {
   background-attachment: fixed; /* Background image will not move when scrolling */
   background-size: 1820px 700px;
   <head>color:  red;
-  font-size:25px;
+  font-size:35px;
   font-style: italic;
   text-align: center
 }
@@ -63,8 +63,7 @@ a img {
 }
 p {
   color: red;
-  font-size:
-  35px;
+  font-size:40px;
   font-weight: bold;
   text-align: center;
   margin-top: 0px;
@@ -75,7 +74,7 @@ p {
 }
 
 h1, h2, h3 {
-  margin-bottom: 20px;
+  margin-bottom: 5px;
 }
 ul, ol {
   margin: 15px 0;
